@@ -1,0 +1,26 @@
+:root {
+--w-color-primary: #1F2333;
+--w-color-primary-200: #2E3F58;
+--w-color-secondary: #8DC8E3;
+--w-color-grey-200: #F5F5F5;
+--w-color-secondary-600: #576C8D;
+--w-color-secondary-400: #D1DCE5;
+--w-color-secondary-100: #FFFFFF;
+--w-color-secondary-75: #F7F9FA;
+--w-color-secondary-50: #F2F6F8;
+--w-color-info-100: #C9FFE5;
+--w-color-info-50: #F1FFF5;
+--w-color-positive-100: #46B29D;
+--w-color-positive-50: #D2E7E1;
+--w-color-warning-100: #FFB85F;
+--w-color-warning-50: #FFF5E1;
+--w-color-critical-200: #D72638;
+--w-color-critical-100: #FFDBE2;
+--w-color-critical-50: #FFF4F6;
+}
+
+
+img.full-width {
+    display: block;
+    margin: auto;
+}
